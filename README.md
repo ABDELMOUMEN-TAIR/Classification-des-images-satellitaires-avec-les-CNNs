@@ -14,7 +14,7 @@ Training
 The training process involves feeding the satellite images into the CNN model and adjusting the model parameters to minimize the classification error. It is recommended to experiment with different hyperparameters and optimization techniques to achieve optimal performance.
 
 Evaluation
-The trained model is evaluated using a separate set of test images to assess its performance and generalization ability. Common evaluation metrics include accuracy, precision, recall, and F1-score.
+The trained model is evaluated using a separate set of test images to assess its performance and generalization ability. accuracy, and F1-score.
 
 Results
 The results of the satellite image classification model will be presented in terms of performance metrics and visualizations. These results can provide insights into the effectiveness of the model and its potential applications.
