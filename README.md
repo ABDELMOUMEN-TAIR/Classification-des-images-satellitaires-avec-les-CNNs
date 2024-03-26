@@ -1,5 +1,5 @@
-# Classification-des-images-satellitaires-avec-les-CNNs
-Classification des images satellitaires avec les CNNs
+# Classification Using Deep Learning (CNN)
+Land_cover Classification Using Deep Learning (CNN)
 
 Overview
 This project focuses on utilizing Convolutional Neural Networks (CNNs) for classifying satellite images. Satellite imagery has become increasingly valuable in various fields including agriculture, urban planning, disaster management, and environmental monitoring. The ability to automatically classify these images can provide valuable insights and aid in decision-making processes.
