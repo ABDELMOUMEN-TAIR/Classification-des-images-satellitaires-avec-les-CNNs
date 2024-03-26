@@ -29,3 +29,5 @@ The results of the satellite image classification model will be presented in ter
 - **Overall Accuracy**: The EfficientNetV2 model achieves significantly higher accuracy compared to the traditional CNN model, correctly classifying nearly 97% of samples in the test dataset, while the classic CNN model achieves an accuracy of approximately 81%.
 
 - **F1 Score**: The F1 score, representing a balance between precision and recall, is also notably higher for the EfficientNetV2 model. It obtained an F1 score of 96.56%, indicating excellent precision and recall for each class. In contrast, the classic CNN model achieved an F1 score of 80.99%, reflecting lower performance in handling false positives and false negatives.
+
+## The Results are inthe ScreenShot Folder 
