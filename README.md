@@ -6,7 +6,7 @@ This project focuses on employing Convolutional Neural Networks (CNNs) to classi
 
 ## Dataset
 
-The dataset utilized in this project, EuroSat, comprises satellite images paired with corresponding ground truth labels. Given the varied nature of satellite imagery, datasets may differ based on specific applications. It's essential to ensure proper organization and division of the dataset into training and test sets.
+The dataset utilized in this project, EuroSat, comprises satellite images paired with corresponding ground truth labels. Given the varied nature of satellite imagery, datasets may differ based on specific applications. It's essential to ensure proper organization and division of the dataset into training, validation, and test sets.
 
 ## Model Architecture
 
